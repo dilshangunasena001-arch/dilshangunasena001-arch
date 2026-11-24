@@ -94,15 +94,8 @@ I don't just want to use technology. I want to understand how to build it.
   <a href="https://wa.me/94781868647">
     <img src="https://img.shields.io/badge/WHATSAPP-050816?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=2000&color=06B6D4&center=true&vCenter=true&width=550&lines=The+next+project+is+always+better.;Stay+curious.+Keep+building.+%E2%9A%A1" />
-</p><p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:050816&height=140&section=footer" />
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:30105C,100:00CCFF&height=150&section=footer&animation=twinkling"/>
-</p><p align="center">
   <b>⚡ THINK DIFFERENT. BUILD DIFFERENT. ⚡</b>
 </p><p align="center">
   <sub>© DILSHAN | DIGITAL COMMAND CENTER</sub>
