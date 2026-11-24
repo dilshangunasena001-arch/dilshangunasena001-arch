@@ -58,10 +58,10 @@ I don't just want to use technology. I want to understand how to build it.
 **GITHUB ANALYTICS**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00CCFF&icon_color=FF4A85&text_color=FFFFFF&ring_color=9D4EDD" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF" alt="Most used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dilshangunasena001-arch&show_icons=true&hide_border=true&bg_color=080B16&title_color=00CCFF&icon_color=FF4A85&text_color=FFFFFF&ring_color=9D4EDD" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshangunasena001-arch&layout=compact&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF" alt="Most used languages"/>
 </p><p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=080B16&ring=00CCFF&fire=FF4A85&currStreakLabel=00CCFF" alt="GitHub contribution streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=dilshangunasena001-arch&theme=dark&hide_border=true&background=080B16&ring=00CCFF&fire=FF4A85&currStreakLabel=00CCFF" alt="GitHub contribution streak"/>
 </p>
 
 **CONTRIBUTION MATRIX**
