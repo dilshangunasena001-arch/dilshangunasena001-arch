@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP-FF4A85?style=for-the-badge&labelColor=080B16"/>
 </p>---
 
-"01 // SYSTEM_PROFILE"
+"**01 SYSTEM_PROFILE**"
 
 ┌──[DILSHAN@GITHUB]─────────────────────┐
 │                                      │
@@ -32,7 +32,7 @@ I don't just want to use technology. I want to understand how to build it.
 
 ---
 
-"02 // TECH_ARSENAL"
+"**02 TECH_ARSENAL**"
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,python,linux,git,github,vscode,mongodb,bash&theme=dark&perline=6" alt="Technology stack"/>
@@ -42,7 +42,7 @@ I don't just want to use technology. I want to understand how to build it.
   <img src="https://img.shields.io/badge/EXPERIMENTATION-FF4A85?style=flat-square&labelColor=080B16"/>
 </p>---
 
-"03 // ACTIVE_OPERATIONS"
+"**03 ACTIVE_OPERATIONS**"
 
 [ SYSTEM LOG ]
 
@@ -56,7 +56,7 @@ I don't just want to use technology. I want to understand how to build it.
 
 ---
 
-"04 // GITHUB_ANALYTICS"
+"**04 GITHUB_ANALYTICS**"
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00CCFF&icon_color=FF4A85&text_color=FFFFFF&ring_color=9D4EDD" alt="GitHub statistics"/>
@@ -65,7 +65,7 @@ I don't just want to use technology. I want to understand how to build it.
   <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=080B16&ring=00CCFF&fire=FF4A85&currStreakLabel=00CCFF" alt="GitHub contribution streak"/>
 </p>---
 
-"05 // CONTRIBUTION_MATRIX"
+"**05 CONTRIBUTION_MATRIX**"
 
 <p align="center">
   <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
@@ -82,7 +82,7 @@ I don't just want to use technology. I want to understand how to build it.
   </a>
 </p>---
 
-"07 // CONNECT_WITH_ME"
+"**07 CONNECT_WITH_ME**"
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
