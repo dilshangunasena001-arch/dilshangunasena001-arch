@@ -13,15 +13,15 @@
 **SYSTEM_PROFILE**
 
 <pre>
-┌──[DILSHAN@GITHUB]─────────────────────┐
-│                                      │
-│  USER       : DILSHAN                │
-│  ROLE       : DEVELOPER / BUILDER    │
+┌──[DILSHAN@GITHUB]────────────────┐
+│                                     │
+│  USER       : DILSHAN               │
+│  ROLE       : DEVELOPER / BUILDER   │
 │  INTERESTS  : TECHNOLOGY & BUSINESS │
-│  MINDSET    : EXPERIMENT. IMPROVE.   │
+│  MINDSET    : EXPERIMENT. IMPROVE.  │
 │  STATUS     : CONSTANTLY BUILDING   │
-│                                      │
-└──────────────────────────────────────┘
+│                                     │
+└────────────────────────────────┘
 </pre>
   
 Hey! I'm Dilshan.
@@ -32,7 +32,6 @@ I enjoy experimenting with new ideas, understanding how systems work, fixing pro
 
 I don't just want to use technology. I want to understand how to build it.
 
----
 
 **TECH ARSENAL**
 
@@ -78,8 +77,8 @@ I don't just want to use technology. I want to understand how to build it.
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project one"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project two"/>
+  <a href="https://github.com/dilshangunasena001-arch">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dilshangunasena001-arch&repo=https://github.com/dilshangunasena001-arch/Config&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project two"/>
   </a>
 </p>
 
