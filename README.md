@@ -1,103 +1,99 @@
-⚡ DILSHAN | Developer & Builder
+⚡ DILSHAN | DIGITAL COMMAND CENTER
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:111B40,70:4F46E5,100:06B6D4&height=240&section=header&text=DILSHAN&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20CREATOR&descSize=17&descAlignY=58&animation=fadeIn" />
+<!-- ANIMATED CYBERPUNK IDENTITY --><p align="center">
+  <img src="./assets/dilshan-animated.svg" width="100%" alt="DILSHAN - Cyberpunk Developer Identity"/>
+</p><!-- ANIMATED INTRO --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2000&pause=700&color=00CCFF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+WORLD;BUILDING+%7C+BREAKING+%7C+REBUILDING;TURNING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated introduction"/>
 </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&height=55&lines=WhatsApp+Bot+Developer+%F0%9F%A4%96;Node.js+%7C+JavaScript+Developer;Automation+Engineer+%E2%9A%A1;Building+Things+That+Actually+Work;Ideas+%E2%86%92+Code+%E2%86%92+Reality" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshangunasena001-arch&style=for-the-badge&color=6366F1&label=VISITORS" />
-  <img src="https://img.shields.io/github/followers/dilshangunasena001-arch?style=for-the-badge&color=06B6D4&label=FOLLOWERS" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00CCFF?style=for-the-badge&labelColor=080B16"/>
+  <img src="https://img.shields.io/badge/MODE-BUILDING-9D4EDD?style=for-the-badge&labelColor=080B16"/>
+  <img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP-FF4A85?style=for-the-badge&labelColor=080B16"/>
 </p>---
 
-🧬 SYSTEM PROFILE
+"01 // SYSTEM_PROFILE"
 
-const dilshan = {
-    role: "Developer & Builder",
-    location: "Sri Lanka",
-    interests: [
-        "WhatsApp Automation",
-        "Backend Development",
-        "Node.js",
-        "API Integration"
-    ],
-    currentlyBuilding: "Automation Systems",
-    mindset: "Build > Experiment > Improve > Ship"
-};
+┌──[DILSHAN@GITHUB]─────────────────────┐
+│                                      │
+│  USER       : DILSHAN                │
+│  ROLE       : DEVELOPER / BUILDER    │
+│  INTERESTS  : TECHNOLOGY & BUSINESS  │
+│  MINDSET    : EXPERIMENT. IMPROVE.   │
+│  STATUS     : CONSTANTLY BUILDING    │
+│                                      │
+└──────────────────────────────────────┘
 
-- 🤖 Developing WhatsApp bots and automation tools.
-- ⚡ Building with Node.js, JavaScript and APIs.
-- 🧠 Exploring backend architecture and system optimization.
-- 🔧 Learning through real-world projects.
-- 🚀 Turning ideas into working products.
+Hey! I'm Dilshan.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=818CF8&center=true&vCenter=true&width=550&lines=Think+Different.+Build+Different.;No+Shortcuts.+Just+Continuous+Improvement." />
-</p>---
+I'm interested in technology, software development, automation, and building things that actually work.
 
-⚙️ TECH ARSENAL
+I enjoy experimenting with new ideas, understanding how systems work, fixing problems, and turning concepts into real projects.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,mongodb,mysql,git,github,vscode,linux&theme=dark&perline=6" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>---
-
-🚀 PROJECTS IN DEVELOPMENT
-
-<p align="center">
-  <a href="https://github.com/dilshangunasena001-arch/Atlas-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilshangunasena001-arch&repo=Atlas-MD&theme=tokyonight&hide_border=true" width="80%" />
-  </a>
-</p>🤖 Atlas-MD
-
-WhatsApp automation built around useful commands, tools and everyday functionality.
-
-Mission: Make WhatsApp automation more powerful, accessible and practical.
+I don't just want to use technology. I want to understand how to build it.
 
 ---
 
-📡 GITHUB LIVE STATISTICS
+"02 // TECH_ARSENAL"
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshangunasena001-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshangunasena001-arch&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,python,linux,git,github,vscode,mongodb,bash&theme=dark&perline=6" alt="Technology stack"/>
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshangunasena001-arch&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://img.shields.io/badge/DEVELOPMENT-00CCFF?style=flat-square&labelColor=080B16"/>
+  <img src="https://img.shields.io/badge/AUTOMATION-9D4EDD?style=flat-square&labelColor=080B16"/>
+  <img src="https://img.shields.io/badge/EXPERIMENTATION-FF4A85?style=flat-square&labelColor=080B16"/>
 </p>---
 
-🏆 ACHIEVEMENT UNLOCKED
+"03 // ACTIVE_OPERATIONS"
+
+[ SYSTEM LOG ]
+
+> Exploring new technologies...
+> Building practical projects...
+> Experimenting with automation...
+> Improving development workflows...
+> Learning something new every day...
+
+[ PROCESS RUNNING ]
+
+---
+
+"04 // GITHUB_ANALYTICS"
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshangunasena001-arch&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00CCFF&icon_color=FF4A85&text_color=FFFFFF&ring_color=9D4EDD" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF" alt="Most used languages"/>
+</p><p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=080B16&ring=00CCFF&fire=FF4A85&currStreakLabel=00CCFF" alt="GitHub contribution streak"/>
 </p>---
 
-🌌 CONTRIBUTION MATRIX
+"05 // CONTRIBUTION_MATRIX"
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshangunasena001-arch&bg_color=050816&color=00D9FF&line=6366F1&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" />
+  <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </p>---
 
-🔗 ESTABLISH CONNECTION
+"06 // FEATURED_PROJECTS"
 
 <p align="center">
-  <a href="https://github.com/dilshangunasena001-arch">
-    <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project one"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project two"/>
   </a>
-  <a href="https://wa.me/YOUR_NUMBER">
-    <img src="https://img.shields.io/badge/WHATSAPP-050816?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+</p>---
+
+"07 // CONNECT_WITH_ME"
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-080B16?style=for-the-badge&logo=github&logoColor=00CCFF"/>
   </a>
+</p>---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:30105C,100:00CCFF&height=150&section=footer&animation=twinkling"/>
 </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=2000&color=06B6D4&center=true&vCenter=true&width=550&lines=The+next+project+is+always+better.;Stay+curious.+Keep+building.+%E2%9A%A1" />
+  <b>⚡ THINK DIFFERENT. BUILD DIFFERENT. ⚡</b>
 </p><p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:050816&height=140&section=footer" />
+  <sub>© DILSHAN | DIGITAL COMMAND CENTER</sub>
 </p>
