@@ -1,7 +1,7 @@
 ⚡ DILSHAN | DIGITAL COMMAND CENTER
 
 <!-- ANIMATED CYBERPUNK IDENTITY --><p align="center">
-  <img src="./assets/dilshan-animated.svg" width="100%" alt="DILSHAN"/>
+  <img src="./assets/dilshan-animated.svg" width="100%" alt="DILSHAN - Cyberpunk Developer Identity"/>
 </p><!-- ANIMATED INTRO --><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2000&pause=700&color=00CCFF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+WORLD;BUILDING+%7C+BREAKING+%7C+REBUILDING;TURNING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated introduction"/>
 </p><p align="center">
