@@ -13,7 +13,7 @@
 **SYSTEM_PROFILE**
 
 <pre>
-┌──[DILSHAN@GITHUB]────────────────┐
+```┌──[DILSHAN@GITHUB]────────────────┐
 │                                     │
 │  USER       : DILSHAN               │
 │  ROLE       : DEVELOPER / BUILDER   │
@@ -21,7 +21,7 @@
 │  MINDSET    : EXPERIMENT. IMPROVE.  │
 │  STATUS     : CONSTANTLY BUILDING   │
 │                                     │
-└────────────────────────────────┘
+└───────────────────────────────┘```
 </pre>
   
 Hey! I'm Dilshan.
@@ -99,4 +99,7 @@ I don't just want to use technology. I want to understand how to build it.
   <b>⚡ THINK DIFFERENT. BUILD DIFFERENT. ⚡</b>
 </p><p align="center">
   <sub>© DILSHAN | DIGITAL COMMAND CENTER</sub>
+</p>
+<p align="center">
+  <sub>Public repository are just the surface real works live in the private ones🤫😏</sub>
 </p>
