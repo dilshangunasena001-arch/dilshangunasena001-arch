@@ -32,7 +32,7 @@ I don't just want to use technology. I want to understand how to build it.
 
 ---
 
-**TECH_ARSENAL**
+**TECH ARSENAL**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,python,linux,git,github,vscode,mongodb,bash&theme=dark&perline=6" alt="Technology stack"/>
@@ -40,9 +40,9 @@ I don't just want to use technology. I want to understand how to build it.
   <img src="https://img.shields.io/badge/DEVELOPMENT-00CCFF?style=flat-square&labelColor=080B16"/>
   <img src="https://img.shields.io/badge/AUTOMATION-9D4EDD?style=flat-square&labelColor=080B16"/>
   <img src="https://img.shields.io/badge/EXPERIMENTATION-FF4A85?style=flat-square&labelColor=080B16"/>
-</p>---
+</p>
 
-**ACTIVE_OPERATIONS**
+**ACTIVE OPERATIONS**
 
 [ SYSTEM LOG ]
 
@@ -54,24 +54,23 @@ I don't just want to use technology. I want to understand how to build it.
 
 [ PROCESS RUNNING ]
 
----
 
-**GITHUB_ANALYTICS**
+**GITHUB ANALYTICS**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00CCFF&icon_color=FF4A85&text_color=FFFFFF&ring_color=9D4EDD" alt="GitHub statistics"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF" alt="Most used languages"/>
 </p><p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=080B16&ring=00CCFF&fire=FF4A85&currStreakLabel=00CCFF" alt="GitHub contribution streak"/>
-</p>---
+</p>
 
-**CONTRIBUTION_MATRIX**
+**CONTRIBUTION MATRIX**
 
 <p align="center">
   <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
-</p>---
+</p>
 
-**FEATURED_PROJECTS**
+**FEATURED PROJECTS**
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -80,15 +79,15 @@ I don't just want to use technology. I want to understand how to build it.
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project two"/>
   </a>
-</p>---
+</p>
 
-**CONNECT_WITH_ME**
+**CONNECT WITH ME**
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GITHUB-080B16?style=for-the-badge&logo=github&logoColor=00CCFF"/>
   </a>
-</p>---
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:30105C,100:00CCFF&height=150&section=footer&animation=twinkling"/>
