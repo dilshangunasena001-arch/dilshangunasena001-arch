@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00CCFF?style=for-the-badge&labelColor=080B16"/>
   <img src="https://img.shields.io/badge/MODE-BUILDING-9D4EDD?style=for-the-badge&labelColor=080B16"/>
   <img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP-FF4A85?style=for-the-badge&labelColor=080B16"/>
-</p>---
+</p>
 
 **SYSTEM_PROFILE**
 
@@ -85,9 +85,19 @@ I don't just want to use technology. I want to understand how to build it.
 **CONNECT WITH ME**
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-080B16?style=for-the-badge&logo=github&logoColor=00CCFF"/>
+  <a href="https://github.com/dilshangunasena001-arch">
+    <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
+  <a href="mailto:dilshangunasena001@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://wa.me/94781868647">
+    <img src="https://img.shields.io/badge/WHATSAPP-050816?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+  </a>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=2000&color=06B6D4&center=true&vCenter=true&width=550&lines=The+next+project+is+always+better.;Stay+curious.+Keep+building.+%E2%9A%A1" />
+</p><p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:050816&height=140&section=footer" />
 </p>
 
 <p align="center">
