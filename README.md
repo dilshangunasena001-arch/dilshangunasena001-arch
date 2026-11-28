@@ -67,7 +67,7 @@ I don't just want to use technology. I want to understand how to build it.
 
 **CONTRIBUTION MATRIX**
 
-<img src="https://raw.githubusercontent.com/HashanOx/HashanOx/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
+<img src="https://raw.githubusercontent.com/dilshangunasena001-arch/dilshangunasena001-arch/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
 
 **FEATURED PROJECTS**
 
