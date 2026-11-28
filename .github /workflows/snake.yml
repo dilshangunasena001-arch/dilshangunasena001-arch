@@ -38,7 +38,7 @@ jobs:
       - name: Publish snake to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          external_repository: dilshangunasena001-arch/HashanOx-snake-output
+          external_repository: dilshangunasena001-arch/dilshangunasena001-arch-snake-output
           publish_branch: main
           publish_dir: ./dist
           keep_files: true
