@@ -67,14 +67,12 @@ I don't just want to use technology. I want to understand how to build it.
 
 **CONTRIBUTION MATRIX**
 
-<p align="center">
-  <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
-</p>
+<img src="https://raw.githubusercontent.com/HashanOx/HashanOx/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
 
 **FEATURED PROJECTS**
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/dilshangunasena001-arch">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dilshangunasena001-arch&repo=Config&hide_border=true&bg_color=080B16&title_color=00CCFF&text_color=FFFFFF&icon_color=FF4A85" alt="Featured project one"/>
   </a>
   <a href="https://github.com/dilshangunasena001-arch">
