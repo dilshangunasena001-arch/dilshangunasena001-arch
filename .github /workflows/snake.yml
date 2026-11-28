@@ -30,7 +30,7 @@ jobs:
         id: snake
         uses: platane/snk@v2
         with:
-          github_user_name: HashanOx
+          github_user_name: dilshangunasena001-arch
           # Output an animated GIF and a static SVG
           gif_output: dist/github-snake.gif
           svg_output: dist/github-snake.svg
@@ -38,7 +38,7 @@ jobs:
       - name: Publish snake to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          external_repository: HashanOx/HashanOx-snake-output
+          external_repository: dilshangunasena001-arch/HashanOx-snake-output
           publish_branch: main
           publish_dir: ./dist
           keep_files: true
